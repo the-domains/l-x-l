@@ -1,0 +1,14 @@
+layout_spectrum: 0.3966486
+typography_spectrum: 0.8727096
+color:
+  saturation: 0.5490713
+  lightness: 0.8778521
+  brandStrength: 0.03316367
+  rhythmicContrast: 0.6416097
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: '| L X L |'
